@@ -1,0 +1,3 @@
+Internet is a global communication system that links together thousands of individual networks. 
+It allows exchange of information between two or more computers on a network. 
+Thus internet helps in transfer of messages through mail, chat, video & audio conference, etc.
